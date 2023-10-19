@@ -1,5 +1,5 @@
 {
-  "name": "myways",
+  "name": "nextjs-chat",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,7 +15,7 @@
     "clsx": "^1.2.1",
     "framer-motion": "^9.0.7",
     "next": "12.2.5",
-    "iron-session": "^6.3.1",
+    "next-iron-session": "^4.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "socket.io": "^4.5.1",
